@@ -42,3 +42,4 @@ class CircleFP {
     return Math.abs (Math.pow(i,2) + Math.pow(j,2) - Math.pow(s,2)) <= s+1;
   }
 }
+//test
